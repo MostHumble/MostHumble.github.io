@@ -3,12 +3,12 @@ main:
   - title: "Publications"
     url: "https://scholar.google.com/citations?hl=en&authuser=1&user=3DALNkwAAAAJ"
     
+  - title: "CV"
+    url: /files/resume.pdf
+
  # - title: "Portfolio"
  #   url: /portfolio/
 
-  - title: "CV"
-    url: /files/resume.pdf
-      
 #  - title: "Blog Posts"
  #   url: /year-archive/
  
