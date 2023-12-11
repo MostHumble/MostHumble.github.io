@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm Final-year student in Intelligent Computer Systems at UMMTO, interested in applications of natural language processing in low-resource constraints, currently learning about reinforcement learning.
+I'm Final-year student in Intelligent Computer Systems at UMMTO. I'm actively seeking an internship in an applied ML research position, available to start in January on-site or remotely from mid-December. I am currently exploring Out-of-Distribution (OOD) Detection, Robustness, Interpretability & Multimodality
+Currently learning about reinforcement learning.
