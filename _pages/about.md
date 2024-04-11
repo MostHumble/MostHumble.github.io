@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm Final-year student in Intelligent Computer Systems at UMMTO. I'm actively seeking an internship in an applied ML research position, available to start in January on-site or remotely from mid-December. I am currently exploring Out-of-Distribution (OOD) Detection, Robustness, Interpretability & Multimodality \
-I'm currently learning about reinforcement learning 🤖!
+I am a final-year student in Intelligent Computer Systems at UMMTO. Currently, I am developing an approach for patient trajectory forecasting as part of my internship at the Laboratory of Information and Computer Science, Marseille University.
